@@ -24,7 +24,7 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@GustavoGottwald](https://www.frontendmentor.io/profile/GustavoGottwald)
 
 ## Notes
 - I couldn't find how to make the image change 
